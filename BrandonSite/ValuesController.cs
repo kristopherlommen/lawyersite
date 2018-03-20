@@ -15,7 +15,7 @@ namespace BrandonSite
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "nice try", "wow your stupid" };
+            return new string[] { "nice ta", "wow your stupid" };
         }
 
       
